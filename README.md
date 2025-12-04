@@ -232,4 +232,4 @@ Teléfono: `+1-800-555-1234` (Horario: 8:00–18:00 UTC−6)
 ---
 ## Notas finales
 Para cualquier cambio mayor en la arquitectura o integraciones, abre un issue con la etiqueta `proposal` para iniciar la discusión.
-Gracias por usar NetGuard Pro — documentación mantenida por el equipo de NetGuard Solutions.
+Gracias por usar NetGuard Pro — documentación mantenida por el equipo de NetGuard Solutions. 
